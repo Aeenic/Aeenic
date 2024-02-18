@@ -2,19 +2,19 @@
 <img src="https://64.media.tumblr.com/60574c261624b157a203e9edb555ded9/3c8c095e0bb4eb83-fd/s1280x1920/91bae7b5e7e1082a868875f9da4cefed29826625.pnj">
 
 <p align="center">
-<img src="https://pixelsafari.neocities.org/favicon/horror/skull6.gif">
+<img src="https://pixelsafari.neocities.org/favicon/animals/bird/bat6.gif">
 
 <p align="center">
 ┌⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┐
 <p align="center">
-<img src="https://pixelsafari.neocities.org/favicon/animals/bird/bat6.gif"> https://aeenic.carrd.co
+<img src="https://pixelsafari.neocities.org/favicon/horror/skull6.gif"> https://aeenic.carrd.co
   <p align="center">
- <img src="https://pixelsafari.neocities.org/favicon/animals/bird/bat6.gif"> https://aenik.123guestbook.com
+ <img src="https://pixelsafari.neocities.org/favicon/horror/skull6.gif"> https://aenik.123guestbook.com
      <p align="center">
 └⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┘
 
 <p align="center">
-<img src="https://pixelsafari.neocities.org/favicon/horror/skull6.gif">
+<img src="https://pixelsafari.neocities.org/favicon/animals/bird/bat6.gif">
 
 
 
@@ -59,7 +59,7 @@
 <img src="https://pixelsafari.neocities.org/blinkies/no.gif">
 
 <p align="center">
-<img src="https://pixelsafari.neocities.org/favicon/horror/skull6.gif">
+<img src="https://pixelsafari.neocities.org/favicon/animals/bird/bat6.gif">
     
 <p align="center">
 <img src="https://64.media.tumblr.com/60574c261624b157a203e9edb555ded9/3c8c095e0bb4eb83-fd/s1280x1920/91bae7b5e7e1082a868875f9da4cefed29826625.pnj">
