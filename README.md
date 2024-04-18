@@ -4,8 +4,8 @@
 <p align="center">
 <img src="https://gifcity.carrd.co/assets/images/gallery12/3e9c6395.gif?v=26dffab5">
 
-<p align="center"> Vote for me :3 
-<p align="center"> https://twitter.com/ponytown_awards/status/1780919237055520873
+ 
+<p align="center"> Vote for me :3 : https://twitter.com/ponytown_awards/status/1780919237055520873
 
 <p align="center">
 ┌⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┐
