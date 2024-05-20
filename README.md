@@ -17,8 +17,7 @@
  <img src="https://pixelsafari.neocities.org/favicon/horror/skull6.gif"> https://aenik.123guestbook.com
      <p align="center">  remaking carrd
 <img src="https://media1.tenor.com/m/17GR6w17R08AAAAd/demonzz1-meczennik.gif" height="25" width="25" />
-    <br>
- </br>
+  
  <p align="center">
 └⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┘
 
