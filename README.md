@@ -15,9 +15,8 @@
 <img src="https://pixelsafari.neocities.org/favicon/horror/skull6.gif"> https://retrospring.net/@Aeenic
   <p align="center">
  <img src="https://pixelsafari.neocities.org/favicon/horror/skull6.gif"> https://aenik.123guestbook.com
-     <p align="center">
-      <p align="center"> remaking carrd ![image](https://github.com/Aeenic/Aeenic/assets/127045422/e63f1735-7a8d-4a7d-bd23-ffa43060fd1e)
-
+     <p align="center">  remaking carrd
+ <p align="center">
 └⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┘
 
 <p align="center">
