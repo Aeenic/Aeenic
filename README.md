@@ -16,7 +16,7 @@
   <p align="center">
  <img src="https://pixelsafari.neocities.org/favicon/horror/skull6.gif"> https://aenik.123guestbook.com
      <p align="center">  remaking carrd
-<img src="https://tenor.com/bSsKZ.gif" width="25" height="25" />
+<img src="https://tenor.com/bSsKZ.gif />
     <br>
  <p align="center">
 └⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┘
