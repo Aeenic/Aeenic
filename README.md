@@ -10,7 +10,7 @@
 <p align="center">
 ┌⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┐
 <p align="center">
-<img src="https://pixelsafari.neocities.org/favicon/horror/skull6.gif"> https://aeenic.carrd.co
+<img src="https://pixelsafari.neocities.org/favicon/horror/skull6.gif"> 
  <p align="center">
 <img src="https://pixelsafari.neocities.org/favicon/horror/skull6.gif"> https://aenik.atabook.org
 
