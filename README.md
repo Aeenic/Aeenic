@@ -29,7 +29,8 @@
 <p align="center">
 
 
-<img src="https://pixelsafari.neocities.org/stamps/more/dog.gif">
+![image](https://github.com/user-attachments/assets/af041395-e07c-40a3-ba19-7e8348251ec6)
+
   
 
 
@@ -37,7 +38,7 @@
 
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/f64ad1b0-37d9-4765-97b0-7f580eab83aa)
+
 
     
 <p align="center">
