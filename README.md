@@ -5,6 +5,7 @@
 <img src="https://gifcity.carrd.co/assets/images/gallery12/3e9c6395.gif?v=26dffab5">
 
  
+![image](https://github.com/user-attachments/assets/436ef810-5863-453c-b132-3013781c2f24)
 
 
 <p align="center">
@@ -22,7 +23,7 @@
 <p align="center">
 <img src="https://gifcity.carrd.co/assets/images/gallery12/3e9c6395.gif?v=26dffab5">
 
-![image](https://github.com/user-attachments/assets/b606925a-9039-471a-8d12-8ce7136fd9e3)
+
 
 
 
