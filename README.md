@@ -29,8 +29,7 @@
 <p align="center">
 
 
-![image](https://github.com/user-attachments/assets/af041395-e07c-40a3-ba19-7e8348251ec6)
-Hear me out cake made with @srubakret n @amatorkiszonejkapusty
+
 
 
   
