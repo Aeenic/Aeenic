@@ -28,7 +28,7 @@
 
 
 <p align="center">  
- <img src="[https://pixelsafari.neocities.org/favicon/horror/skull6.gif](https://media.discordapp.net/attachments/1308192341055504384/1328482455912452146/image.png?ex=6786dd33&is=67858bb3&hm=cb6d3eb1367a1ef11f9353867c1cb2be850bd7a7e60f7c00307d97326eb9f102&=&format=webp&quality=lossless)">
+ <img src="https://cdn.discordapp.com/attachments/1308192341055504384/1328482455912452146/image.png?ex=6786dd33&is=67858bb3&hm=cb6d3eb1367a1ef11f9353867c1cb2be850bd7a7e60f7c00307d97326eb9f102&">
 
 
 <p align="center">
