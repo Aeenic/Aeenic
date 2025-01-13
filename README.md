@@ -27,9 +27,8 @@
 
 
 
-<p align="center">
- 
- ![image](https://github.com/user-attachments/assets/2d5d9ac4-43ae-4cb7-8da8-6d2578b42e39)
+<p align="center">  
+ <img src="[https://pixelsafari.neocities.org/favicon/horror/skull6.gif](https://media.discordapp.net/attachments/1308192341055504384/1328482455912452146/image.png?ex=6786dd33&is=67858bb3&hm=cb6d3eb1367a1ef11f9353867c1cb2be850bd7a7e60f7c00307d97326eb9f102&=&format=webp&quality=lossless)">
 
 
 <p align="center">
