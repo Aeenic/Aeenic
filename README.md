@@ -9,7 +9,9 @@
 
 <p align="center">
 ┌⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┐
-<p align="center">
+
+ <p align="center">
+  
  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gzfndyjpq53ifscfao912m1bf&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <p align="center">
 <img src="https://pixelsafari.neocities.org/favicon/horror/skull6.gif"> https://aenik.straw.page
