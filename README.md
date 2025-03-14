@@ -1,8 +1,11 @@
-
+<p align="center">
+┌⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┐
  
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gzfndyjpq53ifscfao912m1bf&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-</p>
+ <p align="center">
+└⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┘
+  
 <p align="center">
 ┌⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┐
 
