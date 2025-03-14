@@ -21,8 +21,7 @@
  <p align="center">
 └⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┘
 
-<p align="center">
-<img src="https://gifcity.carrd.co/assets/images/gallery12/3e9c6395.gif?v=26dffab5">
+
 
 
 
@@ -38,14 +37,6 @@
 
 
 
-
-
-  
-<p align="center">
-<img src="https://gifcity.carrd.co/assets/images/gallery12/3e9c6395.gif?v=26dffab5">
-
-
-<p align="center">
 
 
 
