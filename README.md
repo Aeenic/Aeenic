@@ -29,6 +29,8 @@
  <p align="center">
     
 <img width="248" height="551" alt="image" src="https://github.com/user-attachments/assets/7ca545aa-027f-4633-8221-a1d1fe446085" />
+<img width="233" height="536" alt="image" src="https://github.com/user-attachments/assets/6b4f454d-7ed0-4417-8f82-83a3010a3df6" />
+
 
 
 
