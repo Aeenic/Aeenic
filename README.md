@@ -26,7 +26,7 @@
  <p align="center">
 └⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┘
 
- <p align="center">
+
     <img width="273" height="360" alt="image" src="https://github.com/user-attachments/assets/38272821-5266-4754-97e1-e744c85af390" />
 
   <img width="277" height="162" alt="image" src="https://github.com/user-attachments/assets/3a9157a2-1a56-40aa-86df-4956ae2d3b2a" />
