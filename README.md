@@ -27,7 +27,8 @@
 └⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┘
 
 <p align="center">
-   <img width="1280" height="752" alt="image" src="https://github.com/user-attachments/assets/0666c441-e3ca-498b-b42c-60dab6e01dbc" />
+   <img width="1280" height="752" alt="image" src="https://github.com/user-attachments/assets/0666c441-e3ca-498b-b42c-60dab6e01dbc" /> @Kochamwegiel
+   
 
 <img width="501" height="193" alt="image" src="https://github.com/user-attachments/assets/8a9ee7be-66e8-45b1-8874-8af23b9c1ccb" />
 
