@@ -1,4 +1,5 @@
 <p align="center"> trying yo lock in for artfight but oh my godduuughhhh
+<p align="center"> u can follow me btw heh.... idk when ill add any of my ocs tho sorry im lazy and im shy and idk https://artfight.net/~Aeenic
 
 <p align="center">  ‎ ‎
    <p align="center">‎
