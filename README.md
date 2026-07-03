@@ -1,4 +1,4 @@
-<p align="center"> THE WOLF OMG US 2 IS REAL WHAT A GREAT TIME TO BE ALIVE
+<p align="center"> trying yo lock in for artfight but oh my godduuughhhh
 
 <p align="center">  ‎ ‎
    <p align="center">‎
