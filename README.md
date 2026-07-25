@@ -30,6 +30,12 @@
 └⌯━━━━━━━━━━━━━━━━━━⊰⍣⊱━━━━━━━━━━━━━━━━━━⌯┘
 
 <p align="center">
+<img width="565" height="468" alt="image" src="https://github.com/user-attachments/assets/b2adf613-c1d3-4de6-a77d-72dd4e69ae87" />
+<img width="355" height="252" alt="image" src="https://github.com/user-attachments/assets/b22cafe0-f4f0-431d-a755-026052aa85ab" />
+
+
+
+<p align="center">
    <img width="1280" height="752" alt="image" src="https://github.com/user-attachments/assets/0666c441-e3ca-498b-b42c-60dab6e01dbc" /> @Kochamwegiel
    
 
