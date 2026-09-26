@@ -31,9 +31,6 @@
    <img width="951" height="468" alt="Zrzut ekranu 2026-09-21 020409" src="https://github.com/user-attachments/assets/65bf03a9-4a4f-4e3f-8f88-c8533a18f45e" />
 
 
-<img width="213" height="82" alt="image" src="https://github.com/user-attachments/assets/f0cf9282-4455-47e7-ba03-cb246539475a" />
-
-
 <p align="center">
    <img width="1280" height="752" alt="image" src="https://github.com/user-attachments/assets/0666c441-e3ca-498b-b42c-60dab6e01dbc" /> @Kochamwegiel
    
