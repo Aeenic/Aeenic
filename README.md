@@ -30,9 +30,6 @@
 <p align="center">
    <img width="951" height="468" alt="Zrzut ekranu 2026-09-21 020409" src="https://github.com/user-attachments/assets/65bf03a9-4a4f-4e3f-8f88-c8533a18f45e" />
 
-   <img width="1387" height="663" alt="image" src="https://github.com/user-attachments/assets/80f60acc-dc4b-424a-a328-35052576a685" />
-
-<img width="355" height="252" alt="image" src="https://github.com/user-attachments/assets/b22cafe0-f4f0-431d-a755-026052aa85ab" />
 
 <img width="213" height="82" alt="image" src="https://github.com/user-attachments/assets/f0cf9282-4455-47e7-ba03-cb246539475a" />
 
